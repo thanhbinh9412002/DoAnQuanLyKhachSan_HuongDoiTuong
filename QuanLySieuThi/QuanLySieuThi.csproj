@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1BABC59B-78AA-4675-8448-F447A4E7A337}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>QuanLySieuThi</RootNamespace>
+    <AssemblyName>QuanLySieuThi</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main\Cost.cs" />
+    <Compile Include="Main\ListBill.cs" />
+    <Compile Include="Main\Customer.cs" />
+    <Compile Include="Main\DiscountGoods.cs" />
+    <Compile Include="Main\ExperiedGoods.cs" />
+    <Compile Include="Main\Goods.cs" />
+    <Compile Include="Main\InventoryGoods.cs" />
+    <Compile Include="Main\ListCustomer.cs" />
+    <Compile Include="Main\ListDiscountGoods.cs" />
+    <Compile Include="Main\ListExperiedGoods.cs" />
+    <Compile Include="Main\ListGoods.cs" />
+    <Compile Include="Main\ListInventoryGoods.cs" />
+    <Compile Include="Main\ListPotetialGoods.cs" />
+    <Compile Include="Main\MenuBill.cs" />
+    <Compile Include="Main\MenuCustomer.cs" />
+    <Compile Include="Main\MainMenu.cs" />
+    <Compile Include="Main\MenuDiscountGoods.cs" />
+    <Compile Include="Main\MenuExperiedGoods.cs" />
+    <Compile Include="Main\MenuGoods.cs" />
+    <Compile Include="Main\MenuInventoryGoods.cs" />
+    <Compile Include="Main\MenuPotentialGoods.cs" />
+    <Compile Include="Main\MenuProvidePremises.cs" />
+    <Compile Include="Main\MenuSalesPlan.cs" />
+    <Compile Include="Main\MenuSupplier.cs" />
+    <Compile Include="Main\MenuSupplierGoods.cs" />
+    <Compile Include="Main\MenuTurnover.cs" />
+    <Compile Include="Main\People.cs" />
+    <Compile Include="Main\PotetialGoods.cs" />
+    <Compile Include="Main\Program.cs" />
+    <Compile Include="Main\ProvidePremises.cs" />
+    <Compile Include="Main\SalePlan.cs" />
+    <Compile Include="Main\Staff.cs" />
+    <Compile Include="Main\Supermarket.cs" />
+    <Compile Include="Main\Supplier.cs" />
+    <Compile Include="Main\SupplyOfGoods.cs" />
+    <Compile Include="Main\Turnover.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Main\ListStaff.cs" />
+    <Compile Include="Main\MenuStaff.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

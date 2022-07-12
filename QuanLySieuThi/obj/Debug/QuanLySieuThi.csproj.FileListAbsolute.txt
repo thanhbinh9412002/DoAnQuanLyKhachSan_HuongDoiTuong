@@ -1,0 +1,35 @@
+F:\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+F:\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+F:\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+F:\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.AssemblyReference.cache
+F:\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
+F:\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+F:\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+D:\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+D:\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+D:\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+D:\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.AssemblyReference.cache
+D:\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
+D:\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+D:\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+C:\Users\MyPC\Desktop\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+C:\Users\MyPC\Desktop\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+C:\Users\MyPC\Desktop\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+C:\Users\MyPC\Desktop\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.AssemblyReference.cache
+C:\Users\MyPC\Desktop\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+C:\Users\MyPC\Desktop\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+D:\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+D:\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+D:\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+D:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.AssemblyReference.cache
+D:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
+D:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+D:\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+C:\Users\ASUS\Documents\Zalo Received Files\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+C:\Users\ASUS\Documents\Zalo Received Files\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+C:\Users\ASUS\Documents\Zalo Received Files\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
